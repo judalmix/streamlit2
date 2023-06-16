@@ -1,0 +1,10 @@
+matplotlib==3.7.0
+matplotlib-base==3.7.1
+shap==0.41.0
+streamlit==1.22.0
+xgboost==0.90
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.1
+sklearn-pandas==2.2.0  
+linearregression==0.0.1
